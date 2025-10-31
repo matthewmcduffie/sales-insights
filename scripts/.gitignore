@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+# Jupyter checkpoints
+.ipynb_checkpoints/
+# Data files
+data/
+output/
+# OS junk
+.DS_Store
+Thumbs.db
