@@ -13,7 +13,6 @@ sales-insights/
 ├── notebooks/           # Jupyter notebooks for analysis
 ├── scripts/             # Data cleaning or preprocessing scripts
 ├── output/              # Visuals, cleaned data, and reports
-└── README.md
 
 ## Tech Stack
 - Python 3
